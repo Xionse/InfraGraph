@@ -23,5 +23,11 @@ git clone https://github.com/Xionse/InfraGraph.git
 ```
 ---
 
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run InfraGraph with the CLI: 
+2. Install the required dependencies:
+  ```bash
+   # Make sure you have Go installed on your system
+   go get -u github.com/your_username/InfraGraph
+```
+
+3. Run InfraGraph with the CLI:  `go run main.go create --input diagram_code.dot --output diagram.png`
+
