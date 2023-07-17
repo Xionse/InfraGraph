@@ -1,1 +1,10 @@
+digraph web_app {
+  rankdir="LR";
+  node [shape=rectangle];
+
+  App [label="Web Application"];
+  Database [label="Database"];
+
+  App -> Database [label="Read/Write"];
+}
 
