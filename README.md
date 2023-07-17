@@ -31,3 +31,5 @@ git clone https://github.com/Xionse/InfraGraph.git
 
 3. Run InfraGraph with the CLI:  `go run main.go create --input diagram_code.dot --output diagram.png`
 
+4. Or use the GUI: `go run main.go gui`
+
