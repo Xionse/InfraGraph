@@ -22,3 +22,5 @@
 git clone https://github.com/Xionse/InfraGraph.git
 ```
 ---
+
+## Install the required dependencies: `pip install -r requirements.txt`
