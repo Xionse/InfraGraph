@@ -33,3 +33,14 @@ git clone https://github.com/Xionse/InfraGraph.git
 
 4. Or use the GUI: `go run main.go gui`
 
+## Examples 📈
+Explore the examples directory to find illustrative diagrams and code snippets for different use cases in DevOps, Data Science, and Data Engineering.
+
+## Documentation 📚
+For more information and detailed guides, check out our User Guide and Developer Guide.
+
+## Contribution 👥
+Contributions are welcome! If you have ideas, bug fixes, or improvements, please submit a pull request. Let's build a robust and user-friendly Diagram as Code tool together! 
+
+## License 📃
+This project is licensed under the MIT License.
